@@ -1,1 +1,9 @@
 Implements Ford-Fulkerson to find max-flow, without fattest path heuristic.
+
+
+For input: 
+
+  the first line reads in source, sink, number of nodes, and number of edges.
+  
+  the rest of the lines read in edges and weights, formatted like so: start_node end_node edge_weight
+  
