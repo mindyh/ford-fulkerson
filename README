@@ -1,4 +1,4 @@
-Implements Ford-Fulkerson to find max-flow, without fattest path heuristic.
+Implements Ford-Fulkerson to find max-flow, without fattest path heuristic. May tidy up code in the future, right now just using it to learn git/Github.
 
 
 For input: 
