@@ -1,1 +1,1 @@
-README for max-flow algorithm
+Implements Ford-Fulkerson to find max-flow, without fattest path heuristic.
